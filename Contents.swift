@@ -1,0 +1,17 @@
+import Swift
+
+Ex01Console.run()
+Ex02Variable.run()
+Ex03DataType.run()
+Ex04Any.run()
+Ex05CollectionType.run()
+Ex06BasicFunc.run()
+Ex07AdvanceFunc.run()
+Ex08ConditionFunc.run()
+Ex09Loop.run()
+Ex10Optional.run()
+Ex11OptionalUnwrapping.run()
+Ex12Structure.run()
+Ex13Class.run()
+Ex14Enum.run()
+Ex15ValueRef.run()
